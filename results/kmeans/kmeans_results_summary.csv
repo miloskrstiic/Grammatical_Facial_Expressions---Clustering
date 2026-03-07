@@ -1,0 +1,3 @@
+Dataset,Algorithm,K,Silhouette,Davies_Bouldin,ARI,NMI
+Scaled dataset,KMeans,4,0.3806,1.8784,0.0219,0.069
+PCA dataset,KMeans,4,0.3817,1.7487,0.0219,0.0689
