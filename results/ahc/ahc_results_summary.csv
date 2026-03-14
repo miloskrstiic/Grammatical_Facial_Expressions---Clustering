@@ -1,0 +1,3 @@
+Dataset,Algorithm,K,Silhouette,Davies_Bouldin,ARI,NMI
+Scaled dataset,Agglomerative,4,0.2697,1.4987,0.0481,0.132
+PCA dataset,Agglomerative,4,0.3017,1.4683,0.0429,0.126
