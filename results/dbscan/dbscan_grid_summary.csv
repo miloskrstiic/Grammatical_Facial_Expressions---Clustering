@@ -1,0 +1,3 @@
+Dataset,Algorithm,eps,min_samples,Clusters,Noise_points,Noise_ratio,Silhouette,Davies_Bouldin,ARI,NMI
+Scaled dataset,DBSCAN,3.0,30,8,14408,0.5158,0.1652,1.0479,0.0243,0.1068
+PCA dataset,DBSCAN,3.0,30,10,12468,0.4463,0.1091,0.949,0.0267,0.0938
