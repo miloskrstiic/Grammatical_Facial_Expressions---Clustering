@@ -1,0 +1,11 @@
+Dataset,Algorithm,Clusters,Silhouette,Davies_Bouldin,ARI,NMI,Noise_ratio,Selection_score,BIC,AIC
+Scaled dataset,KMeans,4,0.2807,1.5513,0.0577,0.1389,,,,
+PCA dataset,KMeans,4,0.2987,1.464,0.0577,0.1388,,,,
+Scaled dataset,DBSCAN,11,0.2201,1.1712,0.0274,0.0958,0.4522,-0.2321,,
+PCA dataset,DBSCAN,10,0.2055,0.949,0.0267,0.0938,0.4463,-0.2408,,
+Scaled dataset,HDBSCAN,5,0.2721,1.3551,0.0268,0.0673,0.3458,0.2569,,
+PCA dataset,HDBSCAN,3,0.3958,0.7061,0.0221,0.0517,0.3272,0.2803,,
+PCA dataset,AHC,2,0.4949,0.8028,0.0028,0.0056,,,,
+Scaled dataset,AHC,2,0.4827,0.8263,0.0047,0.0093,,,,
+PCA dataset,GMM,14,-0.0658,3.3168,0.0525,0.1333,,,189987.15,180504.82
+Scaled dataset,GMM,14,0.1297,2.4912,0.0998,0.2195,,,181159.83,134039.43

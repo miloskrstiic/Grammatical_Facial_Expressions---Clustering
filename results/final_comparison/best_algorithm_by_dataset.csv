@@ -1,0 +1,3 @@
+Dataset,Best_by_Silhouette,Best_Silhouette,Best_by_Davies_Bouldin,Best_Davies_Bouldin,Best_by_ARI,Best_ARI,Best_by_NMI,Best_NMI
+PCA dataset,AHC,0.4949,HDBSCAN,0.7061,KMeans,0.0577,KMeans,0.1388
+Scaled dataset,AHC,0.4827,AHC,0.8263,GMM,0.0998,GMM,0.2195

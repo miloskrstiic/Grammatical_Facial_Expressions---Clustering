@@ -1,0 +1,3 @@
+Dataset,Algorithm,Covariance,K,BIC,AIC
+PCA dataset,GMM,diag,14,189987.15,180504.82
+Scaled dataset,GMM,diag,14,181159.83,134039.43
