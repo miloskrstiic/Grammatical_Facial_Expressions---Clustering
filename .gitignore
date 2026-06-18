@@ -1,2 +1,4 @@
 # Ignore Jupyter Notebook checkpoints
+hdbscan_cache/
+__pycache__/
 .ipynb_checkpoints/

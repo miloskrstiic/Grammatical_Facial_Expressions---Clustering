@@ -1,3 +1,3 @@
-Dataset,Algorithm,min_cluster_size,min_samples,Clusters,Noise_points,Noise_ratio,Silhouette,Davies_Bouldin,ARI,NMI
-Scaled dataset,HDBSCAN,500,100,2,11554,0.4136,0.6497,0.5101,0.0068,0.0364
-PCA dataset,HDBSCAN,1000,20,2,8206,0.2937,0.622,0.573,0.0055,0.0203
+Dataset,Algorithm,min_cluster_size,min_samples,Clusters,Noise_points,Noise_ratio,Silhouette_non_noise,Davies_Bouldin_non_noise,ARI,NMI,Selection_score
+Scaled dataset,HDBSCAN,200,20,5,9659,0.3458,0.2721,1.3551,0.0268,0.0673,0.2569
+PCA dataset,HDBSCAN,200,20,3,9142,0.3272,0.3958,0.7061,0.0221,0.0517,0.2803
